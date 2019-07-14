@@ -1,0 +1,1 @@
+-D log4j_prop_location=/Users/supputuri/Desktop/BikeRentalLog4J/config/application.properties -D prop_location=/Users/supputuri/Desktop/BikeRentalLog4J/config/log4j.properties
